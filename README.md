@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chetanya-sharma
 - 👀 I’m interested in ... Quant Finance, Algorithmic Trading and Puzzles 
-- 🌱 I’m currently learning ... WebDev and AppDev
+- 🌱 I’m currently learning ... Quant Finance, Trading Strategies, Statistical Arbitrage
 - 📫 How to reach me ... LinkedIN-https://www.linkedin.com/in/chetanya-sharma0/
 
 <!---
