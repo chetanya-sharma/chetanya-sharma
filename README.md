@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chetanya-sharma
-- 👀 I’m interested in ... CP, WebDev and CyberSec 
+- 👀 I’m interested in ... Quant Finance, Algorithmic Trading and Puzzles 
 - 🌱 I’m currently learning ... WebDev and AppDev
 - 📫 How to reach me ... LinkedIN-https://www.linkedin.com/in/chetanya-sharma0/
 
